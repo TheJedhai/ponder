@@ -1,0 +1,17 @@
+{
+  "name": "ponder-aave",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "ponder dev",
+    "start": "ponder start",
+    "codegen": "ponder codegen"
+  },
+  "dependencies": {
+    "ponder": "latest",
+    "viem": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
